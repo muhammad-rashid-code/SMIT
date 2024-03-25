@@ -522,6 +522,20 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   column-gap: 4vh;
 }
 
+@media screen and (max-width: 768px) {
+  .sec-3 > .c-3-c-cont {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 2vw;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .sec-3 > .c-3-c-cont {
+    justify-content: center;
+  }
+}
+
 .sec-3 > .c-3-c-cont > .card {
   height: 47vh;
   display: block;
@@ -534,6 +548,19 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   text-decoration: none;
   color: #fff;
   border-radius: 0.5vw;
+  background-size: 100% 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .sec-3 > .c-3-c-cont > .card {
+    width: 40vw;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .sec-3 > .c-3-c-cont > .card {
+    width: 83vw;
+  }
 }
 
 .sec-3 > .c-3-c-cont > .card > .c-dtl {
@@ -543,6 +570,18 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   width: 26vw;
   margin: 0 auto;
   margin-bottom: 1vh;
+}
+
+@media screen and (max-width: 768px) {
+  .sec-3 > .c-3-c-cont > .card > .c-dtl {
+    width: 37vw;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .sec-3 > .c-3-c-cont > .card > .c-dtl {
+    width: 81vw;
+  }
 }
 
 .sec-3 > .c-3-c-cont > .card > .c-dtl > h4 {
@@ -555,4 +594,5 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   padding-bottom: 2vh;
   border-radius: 0.35vw;
 }
+
 /* </section>3 */
