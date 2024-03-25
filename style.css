@@ -509,3 +509,50 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   }
 }
 /* <!-- </section>2 --> */
+
+/* <section>3 */
+.sec-3 {
+  width: 84vw;
+  margin: auto;
+  margin-top: 5vh;
+}
+
+.sec-3 > .c-3-c-cont {
+  display: flex;
+  column-gap: 4vh;
+}
+
+.sec-3 > .c-3-c-cont > .card {
+  height: 47vh;
+  display: block;
+  width: 62vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 0.5vw;
+}
+
+.sec-3 > .c-3-c-cont > .card > .c-dtl {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 26vw;
+  margin: 0 auto;
+  margin-bottom: 1vh;
+}
+
+.sec-3 > .c-3-c-cont > .card > .c-dtl > h4 {
+}
+
+.sec-3 > .c-3-c-cont > .card > .c-dtl > p {
+  background-color: hsla(97, 54%, 54%, 0.871);
+  text-align: center;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  border-radius: 0.35vw;
+}
+/* </section>3 */
