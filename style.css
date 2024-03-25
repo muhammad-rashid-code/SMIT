@@ -533,6 +533,7 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
 @media screen and (max-width: 425px) {
   .sec-3 > .c-3-c-cont {
     justify-content: center;
+    flex-wrap: wrap;
   }
 }
 
