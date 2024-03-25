@@ -1,0 +1,2 @@
+# SMIT
+swit static cline
