@@ -538,6 +538,12 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   }
 }
 
+@media screen and (max-width: 320px) {
+  .sec-3 > .c-3-c-cont {
+    flex-wrap: wrap;
+  }
+}
+
 .sec-3 > .c-3-c-cont > .card {
   height: 47vh;
   display: block;
@@ -565,6 +571,12 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
   }
 }
 
+@media screen and (max-width: 320px) {
+  .sec-3 > .c-3-c-cont > .card {
+    width: 84vw;
+  }
+}
+
 .sec-3 > .c-3-c-cont > .card > .c-dtl {
   display: flex;
   flex-direction: column;
@@ -583,6 +595,11 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
 @media screen and (max-width: 425px) {
   .sec-3 > .c-3-c-cont > .card > .c-dtl {
     width: 81vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .sec-3 > .c-3-c-cont > .card > .c-dtl {
   }
 }
 
