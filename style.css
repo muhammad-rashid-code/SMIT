@@ -616,3 +616,94 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
 }
 
 /* </section>3 */
+
+/* <footer> */
+footer {
+  background-size: 100% 100%;
+  width: 98.7vw;
+  height: 82.5vh;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 5vh;
+}
+/* one shot */
+footer h3,
+footer p,
+footer a {
+  text-decoration: none;
+  color: #fff;
+} /* one shot */
+
+footer > .ft-con {
+  width: 84vw;
+  margin: auto;
+}
+
+footer > .ft-con > .one {
+  display: flex;
+}
+
+footer > .ft-con > .one > .one-1 {
+}
+
+footer > .ft-con > .one > .one-1 > .logo {
+}
+
+footer > .ft-con > .one > .one-1 > .logo > img {
+}
+
+footer > .ft-con > .one > .one-1 > .soc {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .fb {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .fb > .fa-facebook-f {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .x {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .x > .fa-x-twitter {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .yt {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .yt > .fa-youtube {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .wta {
+}
+
+footer > .ft-con > .one > .one-1 > .soc > .wta > .fa-whatsapp {
+}
+
+footer > .ft-con > .one > .one-2 {
+}
+
+footer > .ft-con > .one > .one-2 > h3 {
+}
+
+footer > .ft-con > .one > .one-2 > a {
+}
+
+footer > .ft-con > .one > .one-3 {
+}
+
+footer > .ft-con > .one > .one-3 > h3 {
+}
+
+footer > .ft-con > .one > .one-3 > a {
+}
+
+footer > .ft-con > .one > .one-4 {
+}
+
+footer > .ft-con > .one > .one-4 > h3 {
+}
+
+footer > .ft-con > .one > .one-4 > p {
+}
+/* </footer> */
