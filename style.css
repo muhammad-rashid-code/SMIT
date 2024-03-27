@@ -635,6 +635,12 @@ footer {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer {
+    height: 218vh;
+  }
+}
+
 footer p,
 footer h3,
 footer a {
@@ -704,6 +710,12 @@ footer > .ft-con > .one > .one-1 > .logo > img {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-1 > .logo > img {
+    width: 82vw;
+  }
+}
+
 footer > .ft-con > .one > .one-1 > .soc {
   display: flex;
   column-gap: 0.5vw;
@@ -718,6 +730,12 @@ footer > .ft-con > .one > .one-1 > .soc {
 @media screen and (max-width: 425px) {
   footer > .ft-con > .one > .one-1 > .soc {
     column-gap: 3vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-1 > .soc {
+    column-gap: 2vw;
   }
 }
 
@@ -745,6 +763,13 @@ footer > .ft-con > .one > .one-1 > .soc > .fb > .fa-facebook-f {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-1 > .soc > .fb > .fa-facebook-f {
+    font-size: 8.25vw;
+    padding: 3.3vw 5.5vw;
+  }
+}
+
 footer > .ft-con > .one > .one-1 > .soc > .x {
 }
 
@@ -766,6 +791,13 @@ footer > .ft-con > .one > .one-1 > .soc > .x > .fa-x-twitter {
   footer > .ft-con > .one > .one-1 > .soc > .x > .fa-x-twitter {
     font-size: 7.25vw;
     padding: 2.3vw 3.1vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-1 > .soc > .x > .fa-x-twitter {
+    font-size: 8.25vw;
+    padding: 3.3vw 4.5vw;
   }
 }
 
@@ -793,6 +825,13 @@ footer > .ft-con > .one > .one-1 > .soc > .yt > .fa-youtube {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-1 > .soc > .yt > .fa-youtube {
+    font-size: 8.25vw;
+    padding: 3.3vw 4.5vw;
+  }
+}
+
 footer > .ft-con > .one > .one-1 > .soc > .wta {
 }
 
@@ -814,6 +853,13 @@ footer > .ft-con > .one > .one-1 > .soc > .wta > .fa-whatsapp {
   footer > .ft-con > .one > .one-1 > .soc > .wta > .fa-whatsapp {
     font-size: 7.25vw;
     padding: 2.3vw 3.1vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-1 > .soc > .wta > .fa-whatsapp {
+    font-size: 8.25vw;
+    padding: 3.3vw 4.5vw;
   }
 }
 
@@ -839,6 +885,12 @@ footer > .ft-con > .one > .one-2 > h3 {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-2 > h3 {
+    font-size: 6vw;
+  }
+}
+
 footer > .ft-con > .one > .one-2 > a {
   font-size: 1.15vw;
 }
@@ -852,6 +904,12 @@ footer > .ft-con > .one > .one-2 > a {
 @media screen and (max-width: 425px) {
   footer > .ft-con > .one > .one-2 > a {
     font-size: 3vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-2 > a {
+    font-size: 5vw;
   }
 }
 
@@ -877,6 +935,12 @@ footer > .ft-con > .one > .one-3 > h3 {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-3 > h3 {
+    font-size: 6vw;
+  }
+}
+
 footer > .ft-con > .one > .one-3 > a {
   font-size: 1.15vw;
 }
@@ -890,6 +954,12 @@ footer > .ft-con > .one > .one-3 > a {
 @media screen and (max-width: 425px) {
   footer > .ft-con > .one > .one-3 > a {
     font-size: 3vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-3 > a {
+    font-size: 5vw;
   }
 }
 
@@ -921,6 +991,12 @@ footer > .ft-con > .one > .one-4 > h3 {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-4 > h3 {
+    font-size: 6vw;
+  }
+}
+
 footer > .ft-con > .one > .one-4 > p {
   font-size: 0.9vw;
 }
@@ -935,6 +1011,13 @@ footer > .ft-con > .one > .one-4 > p {
   footer > .ft-con > .one > .one-4 > p {
     text-align: center;
     font-size: 3vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .one > .one-4 > p {
+    /* text-align: center; */
+    font-size: 5vw;
   }
 }
 
@@ -967,6 +1050,12 @@ footer > .ft-con > .two > .img > img {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .two > .img > img {
+    width: 80vw;
+  }
+}
+
 footer > .ft-con > .three {
   padding-top: 2vh;
   padding-bottom: 2vh;
@@ -993,6 +1082,12 @@ footer > .ft-con > .three > p {
   }
 }
 
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .three > p {
+    font-size: 6.5vw;
+  }
+}
+
 footer > .ft-con > .three > p > span {
   font-size: 1.25vw;
   color: #006fb7;
@@ -1007,6 +1102,12 @@ footer > .ft-con > .three > p > span {
 @media screen and (max-width: 425px) {
   footer > .ft-con > .three > p > span {
     font-size: 4vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .three > p > span {
+    font-size: 6.5vw;
   }
 }
 
@@ -1031,6 +1132,12 @@ footer > .ft-con > .four > p {
 @media screen and (max-width: 425px) {
   footer > .ft-con > .four > p {
     font-size: 3vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer > .ft-con > .four > p {
+    font-size: 6vw;
   }
 }
 /* </footer> */
