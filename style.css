@@ -17,6 +17,12 @@ header {
   height: 18vh;
 }
 
+@media screen and (max-width: 320px) {
+  header {
+    position: static;
+  }
+}
+
 @media screen and (max-width: 768px) {
   header {
     height: 22vh;
