@@ -647,6 +647,12 @@ footer {
   }
 }
 
+@media screen and (max-width: 150px) {
+  footer {
+    height: 135vh;
+  }
+}
+
 footer p,
 footer h3,
 footer a {
