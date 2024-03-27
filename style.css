@@ -641,6 +641,12 @@ footer {
   }
 }
 
+@media screen and (max-width: 380px) {
+  footer {
+    height: 170vh;
+  }
+}
+
 @media screen and (max-width: 320px) {
   footer {
     height: 218vh;
