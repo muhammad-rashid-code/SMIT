@@ -319,7 +319,7 @@ header > nav > .t-nav-l > .t-nav > .drop-d > #lang > option {
 
 @media screen and (max-width: 425px) {
   .hero > .hero-item {
-    margin-top: 35vh;
+    margin-top: 5vh;
   }
 }
 
