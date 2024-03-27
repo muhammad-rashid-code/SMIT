@@ -637,7 +637,7 @@ footer {
 
 @media screen and (max-width: 425px) {
   footer {
-    height: 190vh;
+    height: 170vh;
   }
 }
 
